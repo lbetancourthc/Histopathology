@@ -3,7 +3,7 @@ import zipfile
 import argparse
 
 data_samples = {
-    "panda2": "https://drive.google.com/file/d/1-OZ0oC_6MLcsr4UJ2gIvFjySFDh_yHPC/view?usp=sharing",
+    "train_panda2": "https://drive.google.com/u/0/uc?id=1jK-CEqwJjhYIKsHcMlhp2-4lc7ontJfK&export=download",
     "train_voets": "https://drive.google.com/uc?id=1AmcFh1MOOZ6aqKm2eO7XEdgmIEqHKTZ5"
 }
 
