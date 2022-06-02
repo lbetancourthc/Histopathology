@@ -3,7 +3,8 @@ import zipfile
 import argparse
 
 data_samples = {
-    "panda2": "https://drive.google.com/drive/folders/1AZEXVUMkRMMkQ4Ju4L1-74mFpcBcGU0o?usp=sharing"
+    "panda2": "https://drive.google.com/drive/folders/1AZEXVUMkRMMkQ4Ju4L1-74mFpcBcGU0o?usp=sharing",
+    "train_voets": "https://drive.google.com/uc?id=1AmcFh1MOOZ6aqKm2eO7XEdgmIEqHKTZ5"
 }
 
 def download(data, url):
