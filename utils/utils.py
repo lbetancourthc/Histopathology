@@ -1,13 +1,9 @@
+import math
 import os
 import shutil
-
-import torch
-import yaml
-
-import os
-import math
 import torch
 import torch.distributed as dist
+import yaml
 
 from logging import getLogger
 
