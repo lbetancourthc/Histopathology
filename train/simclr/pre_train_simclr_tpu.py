@@ -202,7 +202,7 @@ def train_resnet():
             model_name = "net-DR-SimCLR-epoch-{}.pt".format(epoch)
             if FLAGS.save_drive:
                 model_name = (
-                    "/content/drive/MyDrive/Colab Notebooks/SimCLR/models/SimCLR-1-DR-pytorch/"
+                    "/content/drive/MyDrive/Digital Pathology/PANDA2/Models/"
                     + model_name
                 )
 
